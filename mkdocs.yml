@@ -1,0 +1,18 @@
+site_name: "PROJECT: SCRIPTED"
+
+theme:
+  name: shadcn
+  
+nav:
+  - Home: index.md
+  - Software: software.md
+  - Formatting:
+      - Introductie Formatting: formatting.md
+      - Soorten lines: lines.md
+      - Belangrijke elementen: belangrijkeelementen.md
+  - Jouw eigen verhaal:
+      - Introductie: jouwverhaal.md
+      - Verhaalstructuur: verhaalstructuur.md
+      - Logline: logline.md
+      - Premisse: premisse.md
+      - Thema/Anti-thema: thema.md
